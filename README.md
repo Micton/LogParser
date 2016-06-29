@@ -1,2 +1,2 @@
 # LogParser
-Siple Log Parser
+Simple Log Parser
